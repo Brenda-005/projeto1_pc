@@ -32,4 +32,3 @@ montante_lci = (capital * math.pow((1+taxa_lci), meses))+(aporte * meses)
 #poupanca
 taxa_poupanca = 0.005 
 montante_poupanca = (capital * math.pow((1+taxa_poupanca),meses))+(aporte*meses)
-
